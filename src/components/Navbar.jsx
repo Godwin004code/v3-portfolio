@@ -12,7 +12,7 @@ const Navbar = () => {
     transition={{duration: 1.5, delay: 1}}
     className="py-5  flex justify-between md:px-[8rem] px-[2rem] items-center">
       <div className="text-white text-[30px]  font-vesperLibre font-[700] tracking-wide ">
-       <h1 className=" text-gradient sticky z-[9]">penuel</h1> 
+       <h1 className=" text-gradient sticky z-[9]">godwin</h1> 
       </div>
       <ul className="list-none  md:flex  hidden  item-center ">
         {navList.map((nav, index) => (

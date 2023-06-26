@@ -14,7 +14,7 @@ const Projects = () => {
     <ProjectTitle />
     <div id="portfolio" className="py-2 text-white grid sm:gap-5 sm:grid-cols-2 grid-cols-1 md:px-[8rem] px-[2rem] items-center">
       {projects.map((project) => {
-        const { id, image, desc, demo, source } = project;
+        const { id, image, desc, demo } = project;
         return (
           <div  key={id} className="card">
             <div  className="card-inner">
@@ -35,16 +35,7 @@ const Projects = () => {
                       <ArrowRightIcon />
                     </button>
                   </a>
-                  <a href={source} target="_blank" rel="noreferrer">
-                    <button
-                      type="button"
-                      className={`py-4 px-6 bg-blue-gradient font-poppins
-    font-medium text-[18px] text-primary outline-none  rounded-[10px]`}
-                    >
-                      Souce Code
-                      <ArrowRightIcon />
-                    </button>
-                  </a>
+                  
                 </div>
               </div>
             </div>

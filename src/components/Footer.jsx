@@ -9,7 +9,7 @@ const Footer = () => {
     <div className="py-[3rem] flex flex-col justify-center   items-center  text-white  md:px-[8rem] px-[2rem] ">
         <div className='w-[100%] h-[0.1rem] border bg-dimWhite'></div>
       <div className="text-[30px] mt-5 font-vesperLibre font-[700] tracking-wide ">
-       <h1 className=" text-gradient sticky z-[9]">penuel</h1> 
+       <h1 className=" text-gradient sticky z-[9]">godwin</h1> 
       </div>
       <ul className='flex justify-between my-1'>
         <li className='list-none font-poppins

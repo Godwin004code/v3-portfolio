@@ -4,7 +4,7 @@ import img2 from "./assets/pics/Screenshot 2023-06-17 at 12.39.18.png"
 import img3 from "./assets/pics/Screenshot 2023-06-17 at 12.39.25.png"
 import img4 from "./assets/pics/Screenshot 2023-06-17 at 12.39.29.png"
 import img5 from "./assets/pics/Screenshot 2023-06-26 at 13.22.43.png"
-
+import img6 from "./assets/pics/Screenshot 2023-06-26 at 13.28.37.png"
 
 
 
@@ -25,54 +25,32 @@ export const projects =[
     },
     {
         id:3,
-        image:"fitness",
+        image:img3,
         desc:'Reactjs, CSS',
         demo: 'http://yourfavfitnesssite.netlify.app/',
         source: 'https://github.com/PenuelSam/React-Router-v6'
     },
     {
         id:4,
-        image:"gericht",
+        image:img4,
         desc:'Reactjs, CSS',
         demo: 'http://geritchfav.netlify.app/',
         source: 'https://github.com/PenuelSam/Restaurant-App'
     },
     {
         id:5,
-        image:"loopstudio",
+        image:img5,
         desc:'Reactjs, Tailwind, CSS',
-        demo: 'http://vr-loopstudios.netlify.app/',
+        demo: 'https://general-studies-practice.vercel.app/',
         source: 'https://github.com/PenuelSam/loop-studio'
     },
    
     {
         id:6,
-        image:"fylo",
+        image:img6,
         desc:'Reactjs, Tailwind',
-        demo: 'http://mafylo.netlify.app/',
-        source: 'https://github.com/PenuelSam/Fylo'
-    },
-    {
-        id:7,
-        image:"todo",
-        desc:'Reactjs, Firebase, Tailwind',
-        demo: 'http://easytodoap.netlify.app/',
-        source: 'https://github.com/PenuelSam/Todo-App'
-    },
-    {
-        id:8,
-        image:"breaking",
-        desc:'Reactjs, CSS',
-        demo: 'http://breakingbad-char.netlify.app/',
-        source: 'https://github.com/PenuelSam/Breaking-bad-app'
-    },
-    {
-        id:9,
-        image:"advice",
-        desc:'Reactjs, API, Tailwind',
-        demo: 'http://advicequotegen.netlify.app/',
-        source: 'https://github.com/PenuelSam/Quote-Generator'
-    },
+        demo: 'https://www.bisonpeaklogistics.com/'
+    }
     
 ]
 

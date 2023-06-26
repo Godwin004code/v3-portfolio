@@ -43,7 +43,7 @@ const Hero = () => {
       transition={{duration: 1.5, delay: 1}}
       className="flex md:ml-0 sm:ml-[-15rem] flex-col">
         <div className="flex items-center">
-          <h1 className={`${style.heading2} relative`}>Hi! I'm Penuel</h1>
+          <h1 className={`${style.heading2} relative`}>Hi! I'm Godwin</h1>
           <motion.div 
           className="absolute md:left-[36rem] left-[36rem] sm:left-[23rem]">
             <img src={wave} alt="" />
@@ -58,7 +58,7 @@ const Hero = () => {
         </div>
         <div>
           <p className={`${style.paragraph} mt-[1rem]`}>
-            I'm a frontend developer based in Nigeria, and i am very{" "}
+            I'm a frontend and no-code developer based in Nigeria, and i am very{" "}
             <br className="sm:flex hidden" /> passionate and dedicated to my
             work.
           </p>
