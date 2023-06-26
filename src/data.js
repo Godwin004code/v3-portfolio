@@ -98,15 +98,27 @@ export const skills =[
         desc: 'Intermediate',
     },
     {
+        id: 3,
+        tick: <CheckCircleIcon />,
+        title: 'Typescript',
+        desc: 'Intermediate',
+    },
+    {
         id:4,
         tick: <CheckCircleIcon />,
-        title: 'React',
+        title: 'React.js',
+        desc: 'Intermediate',
+    },
+    {
+        id:5,
+        tick: <CheckCircleIcon />,
+        title: 'Vue.js',
         desc: 'Intermediate',
     },
     {
         id: 5,
         tick: <CheckCircleIcon />,
-        title: 'Tailwind',
+        title: 'TailwindCSS',
         desc: 'Intermediate',
     },
     {
