@@ -5,6 +5,8 @@ import img3 from "./assets/pics/Screenshot 2023-06-17 at 12.39.25.png"
 import img4 from "./assets/pics/Screenshot 2023-06-17 at 12.39.29.png"
 import img5 from "./assets/pics/Screenshot 2023-06-26 at 13.22.43.png"
 import img6 from "./assets/pics/Screenshot 2023-06-26 at 13.28.37.png"
+import img7 from "./assets/pics/Screenshot 2023-07-05 at 09.46.00.png"
+import img8 from "./assets/pics/Screenshot 2023-07-05 at 09.46.27.png"
 
 
 
@@ -50,7 +52,21 @@ export const projects =[
         image:img6,
         desc:'Reactjs, Tailwind',
         demo: 'https://www.bisonpeaklogistics.com/'
-    }
+    },
+    {
+        id:7,
+        image:img7,
+        desc:'Bubble.io',
+        demo: 'https://www.designmatch.io/our-talent/',
+        source: ''
+    },
+    {
+        id:8,
+        image:img8,
+        desc:'Bubble.io',
+        demo: 'https://lowcodetraining.nl/version-test/',
+        source: ''
+    },
     
 ]
 
@@ -149,6 +165,18 @@ export const skills =[
         id: 11,
         tick: <CheckCircleIcon />,
         title: 'REST-API', 
+        desc: 'Intermediate',       
+    },
+    {
+        id: 12,
+        tick: <CheckCircleIcon />,
+        title: 'Bubble', 
+        desc: 'Advanced',       
+    },
+    {
+        id: 13,
+        tick: <CheckCircleIcon />,
+        title: 'Xano', 
         desc: 'Intermediate',       
     },
 ]

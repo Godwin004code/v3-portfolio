@@ -53,7 +53,7 @@ const Hero = () => {
         <div className="flex items-center gap-5">
           <div className="bg-white w-[5rem] h-[0.5px]"></div>
           <h1 className="text-[18px] text-gradient font-poppins">
-            Frontend Developer
+            Frontend & bubble Developer
           </h1>
         </div>
         <div>

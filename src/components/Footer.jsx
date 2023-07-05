@@ -31,7 +31,7 @@ const Footer = () => {
         <a href="https://github.com/PenuelSam?tab=repositories" target='_blank' rel='noreferrer'><GitHubIcon className='cursor-pointer'/></a>
       </div>
       <div>
-        <p className={`${styles.paragraph} mt-5`}>&copy; Penuel. All rights reserved 2022</p>
+        <p className={`${styles.paragraph} mt-5`}>&copy; godwin. All rights reserved 2022</p>
       </div>
     </div>
   )
