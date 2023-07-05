@@ -99,7 +99,7 @@ export const skills =[
         id: 1,
         tick: <CheckCircleIcon />,
         title: 'HTML',
-        desc: 'Basics',
+        desc: 'Advanced',
     },
     {
         id: 2,
@@ -123,7 +123,7 @@ export const skills =[
         id:4,
         tick: <CheckCircleIcon />,
         title: 'React.js',
-        desc: 'Intermediate',
+        desc: 'Advanced',
     },
     {
         id:5,
